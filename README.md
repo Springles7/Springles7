@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Pedro Bellone and I'm a Software Developer from Belo Horizonte.</h2>
+<h2 align="left">Hi 👋! My name is Pedro Bellone and I'm a Software Engineer from Belo Horizonte.</h2>
 
 ###
 
